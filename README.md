@@ -1,9 +1,11 @@
 # Working-with-text-data
 
 In this task, I have solved an imbalanced text classification task.
+
 The dataset can be downloaded from the following links:
 https://www.dropbox.com/s/6ot9w3on66gp129/hw5_data_test.csv?dl=1
 https://www.dropbox.com/s/71q00c3r3vmsz9j/hw5_data_train.csv?dl=1
+
 The dataset consists of Women’s fashion online shop reviews, consisting of a title, a review
 text, and whether the review author would recommend the product. I have tried to determine
 whether a reviewer will recommend a product or not based on review title and review.
